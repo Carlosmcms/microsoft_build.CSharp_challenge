@@ -10,8 +10,8 @@ Modules:
 5. Create a web API with ASP.NET Core controllers
 6. Publish a web app to Azure with Visual Studio
 7. Introduction to .NET
-8. __*(CURRENT) Create a new .NET project and work with dependencies*__
-9. Interactively debug .NET apps with the Visual Studio Code debugger
+8. Create a new .NET project and work with dependencies
+9. __*(CURRENT) Interactively debug .NET apps with the Visual Studio Code debugger*__
 10. Work with files and directories in a .NET app
 11. Introduction to Web Development with Blazor
 12. Build a web app with Blazor

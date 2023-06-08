@@ -1,3 +1,10 @@
+# Project Creation
+## Create a new .NET console project
+```dotnet new console -f net6.0```
+
+## Create a new API project
+```dotnet new webapi -f net7.0```
+
 # Razor
 
 ## Run Razor Project while update on saving code
@@ -8,8 +15,16 @@ dotnet new page --name PizzaList --namespace ContosoPizza.Pages --output Pages
 
 # .NET
 
-## Create a new API project
-```dotnet new webapi -f net7.0```
+
+
+## Install a package || version specificity || Include prerelease
+```dotnet add package {PACKAGE_NAME} || --version={VERSION_NUMBER} || --prerelease```
+
+## List .NET packages || Include transitive (Globals) || list outdated packages
+```dotnet list package || --include-transitive || --outdated```
+
+## Restore dependencies
+```dotnet restore```
 
 ## Configure system to trust dev certificate
 ```dotnet dev-certs https --trust```
