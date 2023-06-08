@@ -8,9 +8,9 @@ Modules:
 3. Learn the basics of web accessibility
 4. Create a web UI with ASP.NET Core
 5. Create a web API with ASP.NET Core controllers
-6. __*(CURRENT) Publish a web app to Azure with Visual Studio*__
+6. Publish a web app to Azure with Visual Studio
 7. Introduction to .NET
-8. Create a new .NET project and work with dependencies
+8. __*(CURRENT) Create a new .NET project and work with dependencies*__
 9. Interactively debug .NET apps with the Visual Studio Code debugger
 10. Work with files and directories in a .NET app
 11. Introduction to Web Development with Blazor
