@@ -67,3 +67,8 @@ dotnet new page --name PizzaList --namespace ContosoPizza.Pages --output Pages
 ### Exit httprepl
 ```exit```
 
+# Packages commands
+
+## Newtonsoft
+### Parsing json files
+```dotnet add package Newtonsoft.Json```

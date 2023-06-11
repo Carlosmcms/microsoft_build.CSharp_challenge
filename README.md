@@ -12,8 +12,8 @@ Modules:
 7. Introduction to .NET
 8. Create a new .NET project and work with dependencies
 9. Interactively debug .NET apps with the Visual Studio Code debugger
-10. __*(CURRENT) Work with files and directories in a .NET app*__
-11. Introduction to Web Development with Blazor
+10. Work with files and directories in a .NET app
+11. __*(CURRENT) Introduction to Web Development with Blazor*__
 12. Build a web app with Blazor
 13. Interact with data in Blazor web apps
 14. Use pages, routing and layouts to improve Blazor navigation
