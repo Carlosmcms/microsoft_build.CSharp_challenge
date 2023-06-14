@@ -5,17 +5,21 @@
 ## Create a new API project
 ```dotnet new webapi -f net7.0```
 
+## Create a new Razor app
+```dotnet new blazorserver -f net6.0```
+
 # Razor
 
 ## Run Razor Project while update on saving code
-dotnet watch
+```dotnet watch```
 
 ## Create new Razor page
-dotnet new page --name PizzaList --namespace ContosoPizza.Pages --output Pages
+```dotnet new page --name PizzaList --namespace ContosoPizza.Pages --output Pages```
+
+## Create a new Razor component
+```dotnet new razorcomponent -n ComponentName -o Pages```
 
 # .NET
-
-
 
 ## Install a package || version specificity || Include prerelease
 ```dotnet add package {PACKAGE_NAME} || --version={VERSION_NUMBER} || --prerelease```

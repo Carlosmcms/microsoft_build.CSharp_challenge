@@ -1,0 +1,32 @@
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\12. Build web app with Blazor.staticwebassets.runtime.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\12. Build web app with Blazor.exe
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\12. Build web app with Blazor.deps.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\12. Build web app with Blazor.runtimeconfig.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\12. Build web app with Blazor.dll
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\bin\Debug\net6.0\12. Build web app with Blazor.pdb
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.AssemblyInfo.cs
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.RazorAssemblyInfo.cache
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.RazorAssemblyInfo.cs
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets\msbuild.12. Build web app with Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets\msbuild.build.12. Build web app with Blazor.props
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.12. Build web app with Blazor.props
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.12. Build web app with Blazor.props
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\scopedcss\bundle\12. Build web app with Blazor.styles.css
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\scopedcss\projectbundle\12. Build web app with Blazor.bundle.scp.css
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.dll
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\refint\12. Build web app with Blazor.dll
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.pdb
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\12. Build web app with Blazor.genruntimeconfig.cache
+C:\Users\carlo\Documents\Microsoft\microsoft_build.CSharp_challenge\12. Build web app with Blazor\obj\Debug\net6.0\ref\12. Build web app with Blazor.dll
