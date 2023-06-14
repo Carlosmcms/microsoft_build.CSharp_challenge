@@ -5,8 +5,8 @@
 ## Create a new API project
 ```dotnet new webapi -f net7.0```
 
-## Create a new Razor app
-```dotnet new blazorserver -f net6.0```
+## Create a new Razor app (no https required)
+```dotnet new blazorserver --no-https true -f net6.0```
 
 # Razor
 
@@ -76,3 +76,13 @@
 ## Newtonsoft
 ### Parsing json files
 ```dotnet add package Newtonsoft.Json```
+
+### Entity Framework
+```dotnet add package Microsoft.EntityFrameworkCore --version 6.0.8```
+
+### SQLite for Entity Framework
+```dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 6.0.8```
+
+### HTTP.json
+```dotnet add package System.Net.Http.Json --version 6.0.0```
+

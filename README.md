@@ -15,7 +15,7 @@ Modules:
 10. Work with files and directories in a .NET app
 11. Introduction to Web Development with Blazor
 12. Build a web app with Blazor
-13. __*(CURRENT)  with data in Blazor web apps*__
+13. __*(CURRENT)  Interact with data in Blazor web apps*__
 14. Use pages, routing and layouts to improve Blazor navigation
 15. Improve how forms and validation work in Blazor web apps
 16. Build rich interactive components with Blazor web apps
@@ -31,7 +31,7 @@ Modules:
 26. Deploy a .NET microservice to Kubernetes
 27. Create and deploy a cloud-native ASP.NET Core microservice
 28. Implement resiliency in a cloud-native ASP.NET Core microservice
-29. Instrument a cloud-native ASP.nET Core microservice
+29. Instrument a cloud-native ASP.NET Core microservice
 30. Implement feature flags in a cloud-native ASP.NET Core microservices app
 31. Use managed data stores in a cloud-native ASP.NET Core microservices app
 32. Understand API gateways in a cloud-native ASP.NET Core microservices app
