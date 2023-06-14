@@ -4,3 +4,6 @@
 [submodule "mslearn-dotnet-files"]
 	path = mslearn-dotnet-files
 	url = https://github.com/Carlosmcms/mslearn-dotnet-files.git
+[submodule "BlazzingPizza"]
+	path = BlazzingPizza
+	url = https://github.com/Carlosmcms/mslearn-interact-with-data-blazor-web-apps.git
