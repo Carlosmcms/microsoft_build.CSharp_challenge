@@ -13,3 +13,6 @@
 [submodule "BlazorForms"]
 	path = BlazorForms
 	url = https://github.com/Carlosmcms/mslearn-use-forms-in-blazor-web-apps.git
+[submodule "BlazorJavascript"]
+	path = BlazorJavascript
+	url = https://github.com/Carlosmcms/mslearn-build-interactive-components-blazor.git
