@@ -19,6 +19,18 @@
 ## Create a new Razor component
 ```dotnet new razorcomponent -n ComponentName -o Pages```
 
+## Create a library-class component
+```dotnet new razorclasslib -o MyProjectName```
+
+## Add library-class component reference to project
+```dotnet add reference ../Path-to-library```
+
+## Package the library for reuse
+```dotnet pack```
+
+## Add reference for NuGet package
+```dotnet add package My.FirstClassLibrary -s ..\Path-to-NuGet-library.nupkg```
+
 # .NET
 
 ## Install a package || version specificity || Include prerelease
