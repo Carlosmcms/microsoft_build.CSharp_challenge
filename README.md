@@ -16,8 +16,8 @@ Modules:
 11. Introduction to Web Development with Blazor
 12. Build a web app with Blazor
 13. Interact with data in Blazor web apps
-14. __*(CURRENT)  Use pages, routing and layouts to improve Blazor navigation*__
-15. Improve how forms and validation work in Blazor web apps
+14. Use pages, routing and layouts to improve Blazor navigation
+15. __*(CURRENT)  Improve how forms and validation work in Blazor web apps*__
 16. Build rich interactive components with Blazor web apps
 17. Build reusable components with Blazor
 18. Build Connect Four game with Blazor

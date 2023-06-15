@@ -7,3 +7,6 @@
 [submodule "BlazzingPizza"]
 	path = BlazzingPizza
 	url = https://github.com/Carlosmcms/mslearn-interact-with-data-blazor-web-apps.git
+[submodule "RoutingInBlazor"]
+	path = RoutingInBlazor
+	url = https://github.com/Carlosmcms/mslearn-blazor-navigation.git
