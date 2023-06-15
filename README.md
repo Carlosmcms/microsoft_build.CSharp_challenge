@@ -17,8 +17,8 @@ Modules:
 12. Build a web app with Blazor
 13. Interact with data in Blazor web apps
 14. Use pages, routing and layouts to improve Blazor navigation
-15. __*(CURRENT)  Improve how forms and validation work in Blazor web apps*__
-16. Build rich interactive components with Blazor web apps
+15. Improve how forms and validation work in Blazor web apps
+16. __*(CURRENT)  Build rich interactive components with Blazor web apps*__
 17. Build reusable components with Blazor
 18. Build Connect Four game with Blazor
 19. Externalize the configuration of an ASP.NET app by using an Azure key vault

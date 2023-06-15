@@ -10,3 +10,6 @@
 [submodule "RoutingInBlazor"]
 	path = RoutingInBlazor
 	url = https://github.com/Carlosmcms/mslearn-blazor-navigation.git
+[submodule "BlazorForms"]
+	path = BlazorForms
+	url = https://github.com/Carlosmcms/mslearn-use-forms-in-blazor-web-apps.git
