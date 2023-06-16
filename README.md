@@ -19,9 +19,9 @@ Modules:
 14. Use pages, routing and layouts to improve Blazor navigation
 15. Improve how forms and validation work in Blazor web apps
 16. Build rich interactive components with Blazor web apps
-17. __*(CURRENT)  Build reusable components with Blazor
-18. Build Connect Four game with Blazor*__
-19. Externalize the configuration of an ASP.NET app by using an Azure key vault
+17. Build reusable components with Blazor
+18. Build Connect Four game with Blazor
+19. __*(CURRENT)  Externalize the configuration of an ASP.NET app by using an Azure key vault*__
 20. Implement logging in a .NET Framework ASP.NET web application
 21. Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis
 22. Build a web API with minimal API, ASP.NET Core and .NET

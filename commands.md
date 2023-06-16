@@ -8,6 +8,9 @@
 ## Create a new Razor app (no https required)
 ```dotnet new blazorserver --no-https true -f net6.0```
 
+## Create a new Blazor WebAssembly app
+```dotnet new blazorwasm -o AppName```
+
 # Razor
 
 ## Run Razor Project while update on saving code
@@ -17,7 +20,7 @@
 ```dotnet new page --name PizzaList --namespace ContosoPizza.Pages --output Pages```
 
 ## Create a new Razor component
-```dotnet new razorcomponent -n ComponentName -o Pages```
+```dotnet new razorcomponent -n ComponentName -o Folder```
 
 ## Create a library-class component
 ```dotnet new razorclasslib -o MyProjectName```
