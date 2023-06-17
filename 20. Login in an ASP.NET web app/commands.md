@@ -1,6 +1,6 @@
 # Module 20: Implement logging in a .NET Framework ASP.NET web application
 
-Unless it's specified, apply these commands in Azure Cloud Shell. The project takes *../MigrationWorkshop/eShopLegacyWebFormsSolution* solution, so [check it the example module](https://github.com/Carlosmcms/eShopModernizing.git)
+Unless it's specified, apply these commands in Azure Cloud Shell.
 ## Basic Configuration
 
 1. Define credentials
