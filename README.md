@@ -21,8 +21,8 @@ Modules:
 16. Build rich interactive components with Blazor web apps
 17. Build reusable components with Blazor
 18. Build Connect Four game with Blazor
-19. __*(CURRENT)  Externalize the configuration of an ASP.NET app by using an Azure key vault*__
-20. Implement logging in a .NET Framework ASP.NET web application
+19. Externalize the configuration of an ASP.NET app by using an Azure key vault
+20. __*(CURRENT)  Implement logging in a .NET Framework ASP.NET web application*__
 21. Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis
 22. Build a web API with minimal API, ASP.NET Core and .NET
 23. Use a database with minimal API, Entity Framework Core and ASP.NET Core
