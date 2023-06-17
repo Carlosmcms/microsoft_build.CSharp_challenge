@@ -16,6 +16,3 @@
 [submodule "BlazorJavascript"]
 	path = BlazorJavascript
 	url = https://github.com/Carlosmcms/mslearn-build-interactive-components-blazor.git
-[submodule "MigrationWorkshop"]
-	path = MigrationWorkshop
-	url = https://github.com/Carlosmcms/eShopModernizing.git
