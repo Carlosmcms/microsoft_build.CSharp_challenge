@@ -29,8 +29,8 @@ Modules:
 24. Create a full stack application by using React and minimal API for ASP.NET Core
 25. Build your first microservice with .NET
 26. Deploy a .NET microservice to Kubernetes
-27. __*(CURRENT) Create and deploy a cloud-native ASP.NET Core microservice*__
-28. Implement resiliency in a cloud-native ASP.NET Core microservice
+27.Create and deploy a cloud-native ASP.NET Core microservice
+28.  __*(CURRENT) Implement resiliency in a cloud-native ASP.NET Core microservice*__
 29. Instrument a cloud-native ASP.NET Core microservice
 30. Implement feature flags in a cloud-native ASP.NET Core microservices app
 31. Use managed data stores in a cloud-native ASP.NET Core microservices app
@@ -39,3 +39,5 @@ Modules:
 
 PD: Consider to recheck from Module 13.
 Take a special look to Module 24.
+
+PENDING: Module 27
