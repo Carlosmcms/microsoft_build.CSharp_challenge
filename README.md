@@ -24,8 +24,8 @@ Modules:
 19. Externalize the configuration of an ASP.NET app by using an Azure key vault
 20. Implement logging in a .NET Framework ASP.NET web application
 21. Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis
-22. __*(CURRENT) Build a web API with minimal API, ASP.NET Core and .NET*__
-23. Use a database with minimal API, Entity Framework Core and ASP.NET Core
+22. Build a web API with minimal API, ASP.NET Core and .NET
+23. __*(CURRENT) Use a database with minimal API, Entity Framework Core and ASP.NET Core*__
 24. Create a full stack application by using React and minimal API for ASP.NET Core
 25. Build your first microservice with .NET
 26. Deploy a .NET microservice to Kubernetes

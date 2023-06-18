@@ -11,6 +11,9 @@
 ## Create a new Blazor WebAssembly app
 ```dotnet new blazorwasm -o AppName```
 
+## Create a minimal API project
+```dotnet new web -o projectname -f net6.0```
+
 # Razor
 
 ## Run Razor Project while update on saving code
@@ -92,12 +95,20 @@
 ### Parsing json files
 ```dotnet add package Newtonsoft.Json```
 
-### Entity Framework
+## Entity Framework
+
+### Install EF
 ```dotnet add package Microsoft.EntityFrameworkCore --version 6.0.8```
 
 ### SQLite for Entity Framework
+
 ```dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 6.0.8```
 
 ### HTTP.json
 ```dotnet add package System.Net.Http.Json --version 6.0.0```
+
+## Swagger
+
+### Install Swashbuckle
+```dotnet add package Swashbuckle.AspNetCore --version 6.1.4```
 
