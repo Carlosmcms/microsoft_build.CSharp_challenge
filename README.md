@@ -26,8 +26,8 @@ Modules:
 21. Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis
 22. Build a web API with minimal API, ASP.NET Core and .NET
 23. Use a database with minimal API, Entity Framework Core and ASP.NET Core
-24. __*(CURRENT) Create a full stack application by using React and minimal API for ASP.NET Core*__
-25. Build your first microservice with .NET
+24. Create a full stack application by using React and minimal API for ASP.NET Core
+25. __*(CURRENT) Build your first microservice with .NET*__
 26. Deploy a .NET microservice to Kubernetes
 27. Create and deploy a cloud-native ASP.NET Core microservice
 28. Implement resiliency in a cloud-native ASP.NET Core microservice
@@ -38,3 +38,4 @@ Modules:
 33. Deploy a cloud-native ASP.NET Core microservice with GitHub Actions
 
 PD: Consider to recheck from Module 13.
+Take a special look to Module 24.

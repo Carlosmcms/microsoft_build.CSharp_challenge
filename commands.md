@@ -14,6 +14,9 @@
 ## Create a minimal API project
 ```dotnet new web -o projectname -f net6.0```
 
+## Create React app
+```npx create-react-app pizza-web```
+
 # Razor
 
 ## Run Razor Project while update on saving code
