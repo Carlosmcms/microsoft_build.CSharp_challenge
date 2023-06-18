@@ -104,6 +104,21 @@
 
 ```dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 6.0.8```
 
+### Add EF InMemory
+```dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 6.0```
+
+### Add EF Core Tools (Create and apply migrations, generate code for a model based on an existing database)
+```dotnet tool install --global dotnet-ef```
+
+### Add EF Core.Design (Design-time logic for EF to create the database)
+```dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0```
+
+### Create a a db migration
+```dotnet ef migrations add migration-name```
+
+### Apply migration
+```dotnet ef database update```
+
 ### HTTP.json
 ```dotnet add package System.Net.Http.Json --version 6.0.0```
 
