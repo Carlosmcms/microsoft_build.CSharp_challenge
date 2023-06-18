@@ -130,3 +130,18 @@
 ### Install Swashbuckle
 ```dotnet add package Swashbuckle.AspNetCore --version 6.1.4```
 
+# Extras
+
+## Docker
+### Create an image based on Dockerfile
+```docker build -t <image-name> .```
+
+### Start the image container
+```docker run -it --rm -p 5200:80 --name <container-name> <image>```
+
+## Docker Compose
+### Create a compose based on .yml file
+```docker compose build```
+
+### Start compose
+```docker compose up```

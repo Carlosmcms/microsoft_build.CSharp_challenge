@@ -16,3 +16,6 @@
 [submodule "BlazorJavascript"]
 	path = BlazorJavascript
 	url = https://github.com/Carlosmcms/mslearn-build-interactive-components-blazor.git
+[submodule "FirstMicroservice"]
+	path = FirstMicroservice
+	url = https://github.com/Carlosmcms/mslearn-dotnetmicroservices.git
