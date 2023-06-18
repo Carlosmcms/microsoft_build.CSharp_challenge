@@ -19,3 +19,6 @@
 [submodule "FirstMicroservice"]
 	path = FirstMicroservice
 	url = https://github.com/Carlosmcms/mslearn-dotnetmicroservices.git
+[submodule "KubernetesExample"]
+	path = KubernetesExample
+	url = https://github.com/Carlosmcms/mslearn-dotnet-kubernetes.git

@@ -134,10 +134,16 @@
 
 ## Docker
 ### Create an image based on Dockerfile
-```docker build -t <image-name> .```
+```docker build -t [image-name] .```
 
 ### Start the image container
-```docker run -it --rm -p 5200:80 --name <container-name> <image>```
+```docker run -it --rm -p 5200:80 --name [container-name] [image]```
+
+### Rename images to Docker Hub (Rename with username)
+```docker tag [image] [dockerhub-username]/[image]```
+
+### Upload image
+```docker push [dockerhub-username]/[image]```
 
 ## Docker Compose
 ### Create a compose based on .yml file
@@ -145,3 +151,26 @@
 
 ### Start compose
 ```docker compose up```
+
+## Kubernetes
+
+### Run Kubernetes file (images in .yml file must be uploaded in Docker Hub)
+```kubectl apply -f [kubernetes-yml-file].yml```
+
+### View the progress of Kubernetes container creation
+```kubectl get pods```
+
+### Get contexts
+```kubectl config get-contexts```
+
+### Scale a microservice to a limited number of instances
+```kubectl scale --replicas=[number of instances] deployment/[service]```
+
+### Delete a pod
+```kubectl delete pod [pod]```
+
+### Get a deploy
+```kubectl get deploy```
+
+### Delete a deploy
+```kubectl delete deploy [deploy]```
